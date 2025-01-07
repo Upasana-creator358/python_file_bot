@@ -39,7 +39,7 @@ prompt = """You are an expert in the python programming language.
             If you do not have any input, introduce yourself and ask the user to provide code for you to analyse"""
 
 # Initialising the context and questions. Here i am assuming the question is, explain this to me
-question = st.text_input("Enter your question here ...")
+question = "Explain this code and give me a analysis of what each section of the code does. If there are any erorrs show me where they are and show me ways of fixing the problem. Also, give me alternatives to fix or improve the code. Write out suggested code improvements"
 context = str(file_uploader())
 
 # Checking for 
