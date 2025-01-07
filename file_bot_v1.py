@@ -28,6 +28,8 @@ def ask_gpt4_with_context(question, context, prompt):
 st.write("""
 # Python helper
 
+--------
+
 This LLM is designed to take a file as an input and give a response based on the file.
 
 Adding the file before asking the question will run the LLM, can't seem to figure out how to avoid that yet so stick to writing the question first then uploading the file
