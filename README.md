@@ -1,4 +1,4 @@
-# python_file_bot
+# Python File bot
 
 This bot is designed for DATA:201 Python for Data Science. A course taught for first year students at Krea University.
 
