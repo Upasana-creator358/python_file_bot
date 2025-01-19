@@ -1,0 +1,8 @@
+#  This file is for only installing the bare minimum requirements to run the bot
+
+python-dotenv==1.0.1
+numpy==2.1.3
+openai==1.54.4
+pandas==2.2.3
+
+# Note, if this still does not work for you, try installing the requirements.txt
