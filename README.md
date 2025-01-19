@@ -12,5 +12,5 @@ The bot is running on streamlit and uses Openai Gpt-4o-mini as its backend to ru
 
 ## Credit
 
-Rohan Kalia : Student at Krea
+Rohan Kalia : Student at Krea \
 Tejas Rao : Student at Krea
