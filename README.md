@@ -10,6 +10,24 @@ The purpose of the bot is doubt clearing and problem solving with respect to mat
 
 The bot is running on streamlit and uses Openai Gpt-4o-mini as its backend to run the prompts and analyse the documents it is provided
 
+---
+### How to run script
+
+- Install required libraries (preferably use a virtual environment)
+
+```
+pip install -r requirements.txt
+```
+
+- Run the script using streamlit
+
+```
+streamlit run file_bot_v1.py
+```
+
+- You will be redirected a localhost instance, if not, use the link provided in the streamlit output in the terminal
+
+---
 ### Credit
 
 Rohan Kalia : Student at Krea \
