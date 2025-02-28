@@ -28,6 +28,9 @@ streamlit run file_bot_v1.py
 - You will be redirected a localhost instance, if not, use the link provided in the streamlit output in the terminal
 
 ---
+
+ls is your bestfriend
+
 ### Credit
 
 Rohan Kalia : Student at Krea \
